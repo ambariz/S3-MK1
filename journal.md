@@ -21,14 +21,15 @@ The cube will have the following surveillance features :
 ## description:
 For the features, I searched for the sensors and listed it down in the components.md, placed the components in kicad schematic.
 
-| ---------------- | --------------------------- | ------------------------------------------------------------------------ |
-| **Controller**   | ESP8266 D1 Mini             | Small controller that fits perfectly inside the cube                     |
-| **Motion**       | HLK-LD2410-AA mmWave Sensor | Detects motion and presence                                              |
-| **Vibration**    | SW-420 Vibration Sensor     | Detects vibration and movement                                           |
-| **Angle / Tilt** | MPU6050                     | 3-axis accelerometer and 3-axis gyroscope for tilt/orientation detection |
-| **Light**        | LDR                         | Detects ambient light intensity                                          |
-| **Temperature**  | DHT11                       | Measures temperature                                                     |
-| **Humidity**     | DHT11                       | Measures humidity                                                        |
+| | | |
+|---|---|---|
+| **Controller** | ESP8266 D1 Mini | Small and fits perfectly inside the cube |
+| **Motion** | HLK-LD2410-AA mmWave Sensor | Motion and presence detection |
+| **Vibration** | SW-420 Vibration Sensor | Vibration detection |
+| **Angle / Tilt** | MPU6050 | 3-axis accelerometer + 3-axis gyroscope |
+| **Light** | LDR | Ambient light detection |
+| **Temperature** | DHT11 | Temperature measurement |
+| **Humidity** | DHT11 | Humidity measurement |
 
 Footprint is not available for HLK-LD2410-AA, SW-420 , MPU6050, DHT11 in kicad. So I'm making custom footprints for the components.
 
