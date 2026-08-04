@@ -34,3 +34,12 @@ For the features, I searched for the sensors and listed it down in the component
 Footprint is not available for HLK-LD2410-AA, SW-420 , MPU6050, DHT11 in kicad. So I'm making custom footprints for the components.
 
 ------
+# date:04/08/2026
+# time spent:1hr
+## description:
+Since footprint is not available for HLK-LD2410-AA, SW-420 , MPU6050 in kicad. So I made custom footprints for the missing component's symbol and footprint. 
+I searched for the exact component model and pinout, matching it with the datasheet and created custom symbols and footprints.
+Now all the components for the circuit is ready and in place.
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal3.png" />
+------
