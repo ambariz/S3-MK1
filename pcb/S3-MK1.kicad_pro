@@ -484,7 +484,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "custom_footprints_1"
+    ],
     "pinned_symbol_libs": [
       "custom_footprints"
     ]
@@ -663,7 +665,7 @@
         "uuid": "3b160dbc-653e-496a-842f-ecdcc5a2cc2f"
       }
     ],
-    "used_designators": "U1-3,J1-2,R1,A1",
+    "used_designators": "U1-3,BZ1,J1-2,R1-2,A1,BT1,D1,SW1",
     "variants": []
   },
   "sheets": [

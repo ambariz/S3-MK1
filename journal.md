@@ -34,7 +34,6 @@ For the features, I searched for the sensors and listed it down in the component
 Footprint is not available for HLK-LD2410-AA, SW-420 , MPU6050, DHT11 in kicad. So I'm making custom footprints for the components.
 
 ------
-<<<<<<< HEAD
 # date:04/08/2026
 # time spent:1hr
 ## description:
@@ -43,6 +42,15 @@ I searched for the exact component model and pinout, matching it with the datash
 Now all the components for the circuit is ready and in place.
 ## images:
 <img width="708" height="507" alt="image" src="/assets/journal3.png" />
+
 ------
-=======
->>>>>>> 1aafeb7dcb6e2c732729f021713356ae78c86a2d
+# date:09/08/2026
+# time spent:1.5hr
+## description:
+I connected the components and added footprints but most of the footprints were not there so I created custom footprints for the components and connected them. I added few more symbols for battery, DPDT slide switch, 5050 neopixel led for showing the status, connected them too.
+After connecting I started arranging them in pcb editor.
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal4.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal4.2.png" />
+
+------
