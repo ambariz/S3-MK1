@@ -48,9 +48,17 @@ Now all the components for the circuit is ready and in place.
 # time spent:1.5hr
 ## description:
 I connected the components and added footprints but most of the footprints were not there so I created custom footprints for the components and connected them. I added few more symbols for battery, DPDT slide switch, 5050 neopixel led for showing the status, connected them too.
-After connecting I started arranging them in pcb editor.
+After connecting I started arranging them in PCB editor.
 ## images:
 <img width="708" height="507" alt="image" src="/assets/journal4.1.png" />
 <img width="708" height="507" alt="image" src="/assets/journal4.2.png" />
+
+------
+# date:09/08/2026
+# time spent:1hr
+## description:
+I started assembling the footprints in PCB editor for S3 MK-1, drew a PCB of 8x8cm and tried to fit all the components footprint inside the box. The initial plan is to create a enclosure for this PCB,So I added M3 screws since this will be inside a box, and after a lot of movements I reduced the PCB size into 66.5mm X 57mm PCB. Now footprint placement is complete next I will route them one by one.
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal5.png" />
 
 ------
