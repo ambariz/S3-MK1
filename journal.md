@@ -62,3 +62,12 @@ I started assembling the footprints in PCB editor for S3 MK-1, drew a PCB of 8x8
 <img width="708" height="507" alt="image" src="/assets/journal5.png" />
 
 ------
+# date:10/08/2026
+# time spent:1hr
+## description:
+I started routing the PCB, Before routing I checked for errors in the circuit with DRC, I got two errors and few warnings, Error: Footprint has malformed courtyard (not a closed shape). I resolved this by correcting the F.courtyard position in the footprint. After solving this issues I started routing the PCB manually, after few revisions I completed the routing (not the best routing but I'm able to connect all the terminal pads) after routing I checked for the errors.. there are no errors, I viewed the pcb in 3D viewer now the PCB is looking very good. Next is the check for few more components I'm thinking of adding.
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal6.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal6.2.png" />
+
+------
