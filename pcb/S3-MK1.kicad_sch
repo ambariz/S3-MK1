@@ -2517,6 +2517,194 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "custom_s3:audio_sensor_custom"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "audio_sensor_custom"
+				(at 0 -5.334 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "audio_sensor_custom_1_1"
+				(rectangle
+					(start -3.81 5.08)
+					(end 3.81 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "VCC"
+					(at 1.27 3.048 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "GND"
+					(at 1.27 0.508 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "OUT"
+					(at 1.27 -2.032 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(junction
 		(at 102.87 114.3)
@@ -2567,6 +2755,12 @@
 		(uuid "90404586-5edf-4464-9e4d-d953f7ffc56d")
 	)
 	(junction
+		(at 130.81 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91a42408-61c7-4e15-9ead-d29db840b13f")
+	)
+	(junction
 		(at 102.87 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2595,6 +2789,16 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fc2ed4f7-24b0-4a3a-8b24-d7e2044c1ca3")
+	)
+	(wire
+		(pts
+			(xy 130.81 41.91) (xy 144.78 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00352bba-e188-45bd-9190-e60b058efdb6")
 	)
 	(wire
 		(pts
@@ -2648,6 +2852,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 96.52) (xy 102.87 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10f187f2-1d3b-427f-8b3e-291f626fa13d")
+	)
+	(wire
+		(pts
 			(xy 55.88 21.59) (xy 105.41 21.59)
 		)
 		(stroke
@@ -2668,6 +2882,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 78.74) (xy 123.19 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17d52740-cf9d-44f4-bf24-73077199f95d")
+	)
+	(wire
+		(pts
 			(xy 105.41 27.94) (xy 105.41 36.83)
 		)
 		(stroke
@@ -2685,6 +2909,16 @@
 			(type default)
 		)
 		(uuid "1ae74d84-d288-4d96-8387-148fa468b58c")
+	)
+	(wire
+		(pts
+			(xy 86.36 45.72) (xy 121.92 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bcbd28a-3e48-409a-8d20-3998b7ee46ff")
 	)
 	(wire
 		(pts
@@ -2738,6 +2972,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 76.2) (xy 130.81 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a6e3bfa-0ff4-4349-8b0e-4d1f99c1a114")
+	)
+	(wire
+		(pts
 			(xy 152.4 55.88) (xy 157.48 55.88)
 		)
 		(stroke
@@ -2785,6 +3029,16 @@
 			(type default)
 		)
 		(uuid "329070b4-f62a-47a7-8041-02d9cf1b405d")
+	)
+	(wire
+		(pts
+			(xy 133.35 78.74) (xy 123.19 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35bcbde1-d41e-4d53-934f-eeb9870bc67f")
 	)
 	(wire
 		(pts
@@ -2928,16 +3182,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 45.72) (xy 86.36 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c2a1143-abaa-412e-b6b6-8698271c97aa")
-	)
-	(wire
-		(pts
 			(xy 77.47 67.31) (xy 77.47 64.77)
 		)
 		(stroke
@@ -2988,6 +3232,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 55.88) (xy 129.54 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59f68dfa-4740-47e0-b477-d16f246dc4cf")
+	)
+	(wire
+		(pts
 			(xy 102.87 110.49) (xy 146.05 110.49)
 		)
 		(stroke
@@ -2995,6 +3249,16 @@
 			(type default)
 		)
 		(uuid "5b63a56b-897e-4c0d-a23c-3325158bf4cb")
+	)
+	(wire
+		(pts
+			(xy 121.92 45.72) (xy 121.92 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e170976-8ce6-4414-a622-008c3790663a")
 	)
 	(wire
 		(pts
@@ -3128,23 +3392,13 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 41.91) (xy 144.78 41.91)
+			(xy 105.41 41.91) (xy 130.81 41.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8b408b67-d25d-4a63-8337-292be390c973")
-	)
-	(wire
-		(pts
-			(xy 113.03 55.88) (xy 113.03 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "986cb9d0-d494-4c60-acf5-44da7d118ae0")
 	)
 	(wire
 		(pts
@@ -3208,6 +3462,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 78.74) (xy 113.03 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b31ae7ef-e248-415a-8fa2-bf035b618db0")
+	)
+	(wire
+		(pts
 			(xy 132.08 30.48) (xy 132.08 19.05)
 		)
 		(stroke
@@ -3225,6 +3489,16 @@
 			(type default)
 		)
 		(uuid "ba533736-4461-43fd-93b5-7ca912d003e5")
+	)
+	(wire
+		(pts
+			(xy 130.81 41.91) (xy 130.81 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbcbf8a7-190a-4083-8217-169b15e389c8")
 	)
 	(wire
 		(pts
@@ -3305,6 +3579,26 @@
 			(type default)
 		)
 		(uuid "d8b454dc-a061-4a3b-a406-56a00767b851")
+	)
+	(wire
+		(pts
+			(xy 129.54 81.28) (xy 133.35 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd790260-d233-444b-bbc7-4b65085fab64")
+	)
+	(wire
+		(pts
+			(xy 113.03 55.88) (xy 129.54 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e228291f-2556-40b8-ac51-3059f0a2ba55")
 	)
 	(wire
 		(pts
@@ -4386,6 +4680,90 @@
 			(project "S3-MK1"
 				(path "/3b160dbc-653e-496a-842f-ecdcc5a2cc2f"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "custom_s3:audio_sensor_custom")
+		(at 138.43 78.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f8ca6b30-330c-4965-a83c-00fbbe574e87")
+		(property "Reference" "J3"
+			(at 143.51 76.8349 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "audio_sensor_custom"
+			(at 135.128 72.136 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 138.43 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "9dc598d5-a333-431f-ac31-7dbb40751f60")
+		)
+		(pin "2"
+			(uuid "329881a7-e7a7-453e-928b-7ad80110b49c")
+		)
+		(pin "1"
+			(uuid "1278b7d4-4a2c-4c47-bcfe-038022568ddc")
+		)
+		(instances
+			(project "S3-MK1"
+				(path "/3b160dbc-653e-496a-842f-ecdcc5a2cc2f"
+					(reference "J3")
 					(unit 1)
 				)
 			)

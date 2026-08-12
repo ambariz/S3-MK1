@@ -71,3 +71,14 @@ I started routing the PCB, Before routing I checked for errors in the circuit wi
 <img width="708" height="507" alt="image" src="/assets/journal6.2.png" />
 
 ------
+# date:12/08/2026
+# time spent:1.5hr
+## description:
+I wrote firmware for S3 cube, All the components data is now able to sense by the esp8266, this firmware is the initial version which does not include the communication. And while writing the firmware I thought of adding a Audio detection in the S3 cube, so I went back to KiCAD and created a custom symbol (footprint not yet created). And placed it in the circuit and connected it. This audio sensor will help to find noise or sound alerts.
+
+I'm attaching a sample image of firmware I took while writing this! Plese check the repo for full firmware.
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal7.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal7.2.png" />
+
+------
