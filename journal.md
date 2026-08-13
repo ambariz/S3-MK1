@@ -82,3 +82,12 @@ I'm attaching a sample image of firmware I took while writing this! Plese check 
 <img width="708" height="507" alt="image" src="/assets/journal7.2.png" />
 
 ------
+# date:12/08/2026
+# time spent:1.5hr
+## description:
+I made custom footprint for audio sensor, and reconnected the whole circuit and PCB. I started making the circuit for S3 watch which will communicate with the S3 cube, I wrote down all the ideas, features and components required of the S3 watch. And wrote down all the required measurements for the S3 cube since we'll be needing a CAD for the enclosure for S3 cube. All the components are placed and started connecting it. For footprints I'm using ScottoKiCad repository, I used this repository for blueprint. Next is to complete the connection and creating the PCB of S3 watch.
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal8.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal8.2.png" />
+
+------
