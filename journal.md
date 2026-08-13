@@ -82,12 +82,21 @@ I'm attaching a sample image of firmware I took while writing this! Plese check 
 <img width="708" height="507" alt="image" src="/assets/journal7.2.png" />
 
 ------
-# date:12/08/2026
+# date:13/08/2026
 # time spent:1.5hr
 ## description:
 I made custom footprint for audio sensor, and reconnected the whole circuit and PCB. I started making the circuit for S3 watch which will communicate with the S3 cube, I wrote down all the ideas, features and components required of the S3 watch. And wrote down all the required measurements for the S3 cube since we'll be needing a CAD for the enclosure for S3 cube. All the components are placed and started connecting it. For footprints I'm using ScottoKiCad repository, I used this repository for blueprint. Next is to complete the connection and creating the PCB of S3 watch.
 ## images:
 <img width="708" height="507" alt="image" src="/assets/journal8.1.png" />
 <img width="708" height="507" alt="image" src="/assets/journal8.2.png" />
+
+------
+# date:13/08/2026
+# time spent:2hr
+## description:
+I created the PCB for S3 watch, initial design was large but after lot of tries and moving the components in right order, I came up with the best possible PCB. Which is small in size (smallest) we are using D1 mini, I added all the components inside the dimentions of the D1 mini itself. Instead of using regular size components we are using the mini versions of it, for eg, instead of normal push button we are using two terminal mini push buttons. 
+Next is to complete the PCB, I'm thinking of adding a strap cutout in the pcb itself or we can create a strap mechanism while doing enclosure CAD but I've to think on this :)
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal9.png" />
 
 ------
