@@ -94,9 +94,19 @@ I made custom footprint for audio sensor, and reconnected the whole circuit and 
 # date:13/08/2026
 # time spent:2hr
 ## description:
-I created the PCB for S3 watch, initial design was large but after lot of tries and moving the components in right order, I came up with the best possible PCB. Which is small in size (smallest) we are using D1 mini, I added all the components inside the dimentions of the D1 mini itself. Instead of using regular size components we are using the mini versions of it, for eg, instead of normal push button we are using two terminal mini push buttons. 
-Next is to complete the PCB, I'm thinking of adding a strap cutout in the pcb itself or we can create a strap mechanism while doing enclosure CAD but I've to think on this :)
+I created the PCB for S3 watch, initial design was large but after lot of tries and moving the components in right order, I came up with the best possible PCB. Which is small in size (smallest) I'm using D1 mini, I added all the components inside the dimentions of the D1 mini itself. Instead of using regular size components I'm using the mini versions of it, for eg, instead of normal push button I'm using two terminal mini push buttons. 
+Next is to complete the PCB, I'm thinking of adding a strap cutout in the pcb itself or I can create a strap mechanism while doing enclosure CAD but I've to think on this :)
 ## images:
 <img width="708" height="507" alt="image" src="/assets/journal9.png" />
+
+------
+# date:16/08/2026
+# time spent:1hr
+## description:
+I connected the S3 watch PCB with 2 layers, After few revisions the S3 watch PCB connection is without the errors in DRC, and also researched on watches about how the strap (strap is the part which connected to the watch, band like thing) and I found there are fixed sizes available like 18mm, 20mm, 22mm these are the widely used ones. I went with 20mm because 22mm will be too big for the PCB and 18mm I think this's small and 20mm is in the middle so went with it. and added a 3.5mm space to slide the strap. And I thought of creating two version of the watches one is with the PCB strap and another with the strap in the enclosure (case of the PCB watch). Next is to write firmware for the S3 watch and I will try to test the firmware I wrote :)
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal10.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal10.2.png" />
+<img width="708" height="507" alt="image" src="/assets/journal10.3.png" />
 
 ------
