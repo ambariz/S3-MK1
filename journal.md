@@ -110,3 +110,20 @@ I connected the S3 watch PCB with 2 layers, After few revisions the S3 watch PCB
 <img width="708" height="507" alt="image" src="/assets/journal10.3.png" />
 
 ------
+# date:17/08/2026
+# time spent:1.5hr
+## description:
+I drew the sketch for the CAD in OnShape, first I measured all the dimentions form the KiCAD PCB, and then drew that in sketch named PCB, and then added drill holes. I created three more sketches one is for innerTop, another is for outerTop. The thickness is 2mm while creating it I came across one issue, if I create a radius of R10 (10mm radius is called R10) so Inner and Outer corner radius is R10 but when i overlap the two sketches in OnShape it's walls are 2mm and then when coming to corners it's getting bit big.. I searched for this issue and found out that ```Outer radius − wall thickness = inner radius``` and it's called inconsistent radius issue.
+If my outside is:
+70 × 70 × 70 mm
+R10 mm
+then the inside should be: R9 mm
+
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal11.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal11.2.png" />
+<img width="708" height="507" alt="image" src="/assets/journal11.3.png" />
+<img width="708" height="507" alt="image" src="/assets/journal11.4.png" />
+<img width="708" height="507" alt="image" src="/assets/journal11.5.png" />
+
+------
