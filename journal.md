@@ -127,3 +127,13 @@ then the inside should be: R9 mm
 <img width="708" height="507" alt="image" src="/assets/journal11.5.png" />
 
 ------
+# date:18/08/2026
+# time spent:1hr
+## description:
+I started creating the enclosure for S3 Cubed, yesterday I created the sketch for Extrude with the PCB dimentions. Today I did Extrude but when i try to do it for the top and bottom covers, it should be in cuboid shape with R10 so that if we throw this cube this will roll and land in top facing (always!) (yet to do this mechanism) After few revisions I realised, I can do it with the options which are available in the OnShape itself, so just creating a cube and using those pre built options I can create what i want. Next is to complete the enclosure using those and Start sketching the enclosure for the S3 Watch.
+
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal12.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal12.2.png" />
+
+------
