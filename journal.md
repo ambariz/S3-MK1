@@ -137,3 +137,19 @@ I started creating the enclosure for S3 Cubed, yesterday I created the sketch fo
 <img width="708" height="507" alt="image" src="/assets/journal12.2.png" />
 
 ------
+# date:18/08/2026
+# time spent:1.5hr
+## description:
+I completed the enclosure of S3 cube. Now I have Base of the cube along with the HEX shaped pillar supports (four of them to support the PCB, we can screw the PCB into this HEX shaped supports), Top cover of the enclosure, we can easily screw and place the top side and also there's inner top side (this inner enclosure is to add weights, I'm thinking of the battery which serves as powersource as well as the wight for the cube). And added all the CAD files in .step .stl and .3mf formats for 3d printing.
+Why we need weight in the bottom side of the cube? Because if we throw the cube it should be rolled and the top will come up easily. 
+
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal13.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal13.2.png" />
+<img width="708" height="507" alt="image" src="/assets/journal13.3.png" />
+<img width="708" height="507" alt="image" src="/assets/journal13.4.png" />
+<img width="708" height="507" alt="image" src="/assets/journal13.5.png" />
+<img width="708" height="507" alt="image" src="/assets/journal13.6.png" />
+<img width="708" height="507" alt="image" src="/assets/journal13.7.gif" />
+
+------
