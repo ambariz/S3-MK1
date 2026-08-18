@@ -150,6 +150,6 @@ Why we need weight in the bottom side of the cube? Because if we throw the cube 
 <img width="708" height="507" alt="image" src="/assets/journal13.4.png" />
 <img width="708" height="507" alt="image" src="/assets/journal13.5.png" />
 <img width="708" height="507" alt="image" src="/assets/journal13.6.png" />
-<img width="708" height="507" alt="image" src="/assets/journal13.7.gif" />
+<img width="708" height="708" alt="image" src="/assets/journal13.7.gif" />
 
 ------
