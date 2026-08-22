@@ -150,6 +150,26 @@ Why we need weight in the bottom side of the cube? Because if we throw the cube 
 <img width="708" height="507" alt="image" src="/assets/journal13.4.png" />
 <img width="708" height="507" alt="image" src="/assets/journal13.5.png" />
 <img width="708" height="507" alt="image" src="/assets/journal13.6.png" />
-<img width="708" height="708" alt="image" src="/assets/journal13.7.gif" />
+<img width="500" height="500" alt="image" src="/assets/journal13.7.gif" />
+
+------
+# date:19/08/2026
+# time spent:1.5hr
+## description:
+I have two esp8266 and oled, instead of simulating the esp8266 I'm writing the firmware for the S3 watch and testing directly in the hardware I bought for previous projects. The firmware (main.ino i) wrote will show the value from the S3 cube. Currently it has a booting text like UI with shows the initial text But the final one I planned will have the menu like UI. And can be controlled by the push buttons in the PCB itself.
+Next is to create a UI which is controlled by the push buttons and also to make a good UI for the S3 watch.
+
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal14.1.png" />
+
+------
+# date:22/08/2026
+# time spent:1.5hr
+## description:
+After booting text now i'm showing the menu like screen, it's not fully feels like menu but now it's better with a table like UI showing all the data got from the S3 cube. I updated with some formating in the table like UI (you can see in the gif below). Now it's auto showing the various data but in the full version of the code there will be push button navigation where the S3 can be controlled from the S3 watch itself. Next is to upgrade this firmware and to create a CAD for the watch. And I'm also thinking to simulate S3 cube in online, Because I don't have all the required sensors for this.
+
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal15.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal15.2.png" />
 
 ------
