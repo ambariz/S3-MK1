@@ -160,7 +160,7 @@ I have two esp8266 and oled, instead of simulating the esp8266 I'm writing the f
 Next is to create a UI which is controlled by the push buttons and also to make a good UI for the S3 watch.
 
 ## images:
-<img width="708" height="507" alt="image" src="/assets/journal14.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal14.1.jpg" />
 
 ------
 # date:22/08/2026
@@ -169,7 +169,27 @@ Next is to create a UI which is controlled by the push buttons and also to make 
 After booting text now i'm showing the menu like screen, it's not fully feels like menu but now it's better with a table like UI showing all the data got from the S3 cube. I updated with some formating in the table like UI (you can see in the gif below). Now it's auto showing the various data but in the full version of the code there will be push button navigation where the S3 can be controlled from the S3 watch itself. Next is to upgrade this firmware and to create a CAD for the watch. And I'm also thinking to simulate S3 cube in online, Because I don't have all the required sensors for this.
 
 ## images:
-<img width="708" height="507" alt="image" src="/assets/journal15.1.png" />
-<img width="708" height="507" alt="image" src="/assets/journal15.2.png" />
+<img width="708" height="507" alt="image" src="/assets/journal15.1.gif" />
+<img width="708" height="507" alt="image" src="/assets/journal15.2.gif" />
+
+------
+# date:22/08/2026
+# time spent:1.5hr
+## description:
+I started making the enlosure for S3 watch, I got all the measurements from the PCB using the measurement tool in KiCAD, measurements are below,
+```
+width : 27mm
+height : 40mm
+space for buttons : 10mm height x 10mm width (each side two buttons)
+space for led : 10mm side left x 10mm right side (keep in middle)
+space for display :
+height : 28mm
+width : 27.30
+```
+Using the above measurements I completed the sketch for PCB outer and inner diagrams, and using the extrusion tool I created the front plate (which is front side of the case) and side enclosure for the case. The front plate has spaces for buttons and status LEDs.
+Next is to create the back plate and mechanism to place backplate and attaching strap for the S3 watch.
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal16.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal16.2.png" />
 
 ------
