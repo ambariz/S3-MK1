@@ -1,4 +1,4 @@
-S³-MK1
+# S3 MK-1
 
 A compact Surveillance Security System built around a sensor-equipped cube and a wearable controller.
 
