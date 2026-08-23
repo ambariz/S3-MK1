@@ -1,0 +1,13 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+119.39,-59.65,-90.0,top,A1,,,MPU6050_Module,MPU6050_Module,tht
+75.9375,-88.0575,90.0,top,BT1,,,Battery_LiPo_Custom,Battery_Cell,tht
+71.0,-76.370785,90.0,top,BZ1,,,Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm,Buzzer,tht
+126.0,-69.5,90.0,top,D1,,,LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm,NeoPixel_THT,smt
+89.73,-67.57,0.0,top,J1,,,LD2420_custom,~,tht
+85.27,-112.0,90.0,top,J2,,,Vibration_sensor_SW420_custom,SW_420,tht
+110.048,-76.0588,90.0,top,J3,,,Audio_sensor_custom,audio_sensor_custom,tht
+74.0,-60.3,-90.0,top,R1,,,R_LDR_5.1x4.3mm_P3.4mm_Vertical,LDR07,tht
+78.0,-66.54,90.0,top,R2,,,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,R,tht
+69.5,-97.5,-90.0,top,SW1,,,SW_CK_JS202011CQN_DPDT_Straight,SW_Slide_DPDT,tht
+90.555,-88.11,0.0,top,U1,,,WEMOS_D1_mini_light,WEMOS_D1_mini,tht
+126.6474,-77.525,-90.0,top,U2,,,Aosong_DHT11_5.5x12.0_P2.54mm,DHT11,tht

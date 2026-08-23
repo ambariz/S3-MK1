@@ -203,3 +203,29 @@ I added legs for attaching the strap, I research about the legs for different si
 <img width="708" height="507" alt="image" src="/assets/journal17.2.png" />
 
 ------
+# date:23/08/2026
+# time spent:1hr
+## description:
+I created few static and animated bitmaps for the S3 watch using lopaka webapp. Created home text and home animation along with the armed to disarmed animation and disarmed to armed animation for the S3 Cube. Next is to test it with the esp and oled hardware I set up shown in previous journals.
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal18.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal18.2.png" />
+<img width="708" height="507" alt="image" src="/assets/journal18.3.png" />
+
+------
+# date:23/08/2026
+# time spent:1.5hr
+## description:
+I wrote a firmware for S3 watch with menu interface which can be controlled by the terminal, my hardware setup broke now the oled is not working so I'm using wokwi for testing this firmware.. it's working fine with the esp and oled in wokwi. This UI contains 4 menu items and 4 inner menu items, next I will be updating the menu UI. Bitmaps will be working fine in real hardware but in wokwi it's not working since it's just a simulation website, Bitmaps are heavy for the simulation.
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal19.1.gif" />
+
+------
+# date:23/08/2026
+# time spent:1.5hr
+## description:
+Now the final firmware has menu UI :) navigation is done, and it has status update as well. Like online status will be in blinking state if it's connected to S3 cube. And user can navigate it with push buttons (now it's in terminal). Next is to test this in real hardware once I print the PCB. I will be updating here when I get my PCB after printing :)
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal20.1.gif" />
+
+------

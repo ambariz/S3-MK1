@@ -1,0 +1,13 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Device,Sim.Type,Sim.Pins,KiLib_Generator
+A1,1,MPU6050_Module,MPU6050_Module,,,,tht,,,,,
+BT1,1,Battery_Cell,Battery_LiPo_Custom,,,,tht,Single-cell battery,V,DC,1=+ 2=-,
+BZ1,1,Buzzer,Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm,,,,tht,"Buzzer, polarized",,,,
+D1,1,NeoPixel_THT,LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm,,,,smt,"RGB LED with integrated controller, 5mm/8mm LED package",,,,
+J1,1,~,LD2420_custom,,,,tht,HLK LD2420,,,,
+J2,1,SW_420,Vibration_sensor_SW420_custom,,,,tht,,,,,
+J3,1,audio_sensor_custom,Audio_sensor_custom,,,,tht,,,,,
+R1,1,LDR07,R_LDR_5.1x4.3mm_P3.4mm_Vertical,,,,tht,light dependent resistor,,,,
+R2,1,R,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,,,,tht,Resistor,,,,resistor/THT
+SW1,1,SW_Slide_DPDT,SW_CK_JS202011CQN_DPDT_Straight,,,,tht,"Slide Switch, dual pole double throw",,,,
+U1,1,WEMOS_D1_mini,WEMOS_D1_mini_light,,,,tht,32-bit microcontroller module with WiFi,,,,
+U2,1,DHT11,Aosong_DHT11_5.5x12.0_P2.54mm,,,,tht,"3.3V to 5.5V, temperature and humidity module, DHT11",,,,

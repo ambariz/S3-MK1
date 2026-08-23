@@ -1,0 +1,9 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Device,Sim.Type,Sim.Pins
+BT2,1,Battery_Cell,Battery_LiPo_Custom,,,,tht,Single-cell battery,V,DC,1=+ 2=-
+BZ2,1,Buzzer,MagneticBuzzer_Kingstate_KCG0601,,,,tht,"Buzzer, polarized",,,
+BZ3,1,Haptic_Vibration,MagneticBuzzer_Kingstate_KCG0601,,,,tht,Vibration,,,
+D2,1,NeoPixel_THT,LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm,,,,smt,"RGB LED with integrated controller, 5mm/8mm LED package",,,
+J5,1,OLED_128x64,OLED_128x64,,,,tht,,,,
+SW2,1,SW_Slide_DPDT,SW_CK_JS202011CQN_DPDT_Straight,,,,tht,"Slide Switch, dual pole double throw",,,
+"SW3, SW4, SW5, SW6",4,SW_Push,SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243,,,,tht,"Push button switch, generic, two pins",,,
+U3,1,WEMOS_D1_mini,WEMOS_D1_mini_light,,,,tht,32-bit microcontroller module with WiFi,,,
