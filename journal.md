@@ -191,5 +191,15 @@ Next is to create the back plate and mechanism to place backplate and attaching 
 ## images:
 <img width="708" height="507" alt="image" src="/assets/journal16.1.png" />
 <img width="708" height="507" alt="image" src="/assets/journal16.2.png" />
+<img width="708" height="507" alt="image" src="/assets/journal16.3.png" />
+
+------
+# date:23/08/2026
+# time spent:1hr
+## description:
+I added legs for attaching the strap, I research about the legs for different sized watch straps. Since we are with 20mm strap, there's a table with all the size list. The spring which holds the strap is called "spring bar". The chart name is "Spring Bat size and dimentions" using this chart I created the legs with the necessary holes for length spring to hold the strap. I also thought of adding frame like structure for legs. Next is to create the frame and to create bitmaps for the menu UI and test it.
+## images:
+<img width="708" height="507" alt="image" src="/assets/journal17.1.png" />
+<img width="708" height="507" alt="image" src="/assets/journal17.2.png" />
 
 ------
