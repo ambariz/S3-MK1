@@ -61,4 +61,18 @@ The project includes custom PCBs designed in KiCad, custom component footprints,
 
 ## BOM
 
-I will add this once after I gather all the links for components :)
+| Product | Quantity | Source | Price (INR) | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| D1 Mini ESP8266 | 2 | Robu | 199 | [Product Link](https://robu.in/product/d1-mini-v2-nodemcu-4m-bytes-lua-wifi-internet-of-things-development-board-based-esp8266/) |
+| mmWave Sensor HLK-LD2410-AA | 1 | Robu | 639 | [Product Link](https://robu.in/product/hi-link-hlk-ld2410s/) |
+| SW-420 Vibration Sensor Module | 1 | Robu | 42 | [Product Link](https://robu.in/product/vibration-sensor-module-alarm-motion-sensor-module-vibration-switch-sw-420/) |
+| MPU-6050 3-Axis Accelerometer and Gyro Sensor | 1 | Robu | 154 | [Product Link](https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/) |
+| LDR 5mm | 1 | Robu | 59 | [Product Link](https://robu.in/product/1-month-warranty-1307/) |
+| DHT11 | 1 | Robu | 51 | [Product Link](https://robu.in/product/dht11-digital-relative-humidity-temperature-sensor-module/) |
+| LiPo Battery | 2 | Robu | 219 | [Product Link](https://robu.in/product/400mah-pcm-protected-micro-li-po-battery/) |
+| Slide Switch | 2 | Robu | 2 | [Product Link](https://robu.in/product/1-month-warranty-255/) |
+| Neopixel 5050 | 2 | Robu | 176 | [Product Link](https://robu.in/product/ws2812b-rgb-addressable-led-module/) |
+| Buzzer | 2 | Robu | 47 | [Product Link](https://robu.in/product/1-month-warranty-1248/) |
+| Tactile Push Button Switch | 4 | Robu | 1.26 | [Product Link](https://robu.in/product/6x6x5mm-tactile-push-button-switch-pack-of-20/) |
+| ERM Coin Vibration Motor | 1 | Robu | 77 | [Product Link](https://robu.in/product/erm-coin-vibration-motor-d10mm-w-3-4mm/) |
+
